@@ -44,7 +44,3 @@ The project is organized into two main parts:
 ## Quick Links
 
 - [Setup Guide](/docs/setup-guide)
-- [API Integration](/docs/api-integration)
-- [State Management](/docs/state-management)
-- [Component Structure](/docs/components)
-- [Development Challenges](/docs/challenges)
