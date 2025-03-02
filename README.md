@@ -28,19 +28,20 @@ See the [Setup Guide](docs/docs/setup-guide.md) for detailed instructions on how
 cd web-app
 npm install
 npm run dev
-
+```
 ### Documentation
 
 ```bash
 cd docs
 npm install
 npm run start
+```
 
 ### Technologies Used
 
-Next.js
-React Query
-Tailwind CSS
-TypeScript
-Docusaurus
+Next.js,
+React Query,
+Tailwind CSS,
+TypeScript,
+Docusaurus,
 CoinGecko API
