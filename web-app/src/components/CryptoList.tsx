@@ -45,7 +45,7 @@ const CryptoList: React.FC<CryptoListProps> = ({ searchTerm }) => {
             </div>
           ) : (
             <div className="p-4 bg-gray-100 rounded-lg text-center">
-              No cryptocurrencies found matching &quot;{searchTerm}&quot;
+              No cryptocurrencies found matching &quot;{searchTerm}&quot; 
             </div>
           )}
         </>
