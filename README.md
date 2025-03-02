@@ -5,8 +5,8 @@ A web application for tracking cryptocurrency prices in real-time.
 ## Project Overview
 
 This project consists of two main parts:
-1. A Next.js web application for displaying cryptocurrency prices
-2. A Docusaurus documentation site
+1. A Next.js web application for displaying cryptocurrency prices, Link: https://crypto-tracker-dhruvpandoh.vercel.app/
+2. A Docusaurus documentation site, Link: https://crypto-tracker-docs-dhruvpandoh.vercel.app/
 
 ## Features
 
